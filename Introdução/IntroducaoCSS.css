@@ -1,0 +1,21 @@
+body{
+    background-color: #b4afaf9f;
+    
+}
+
+p{
+    text-indent: 58px;
+    font-size: 28px;
+    text-align: left;
+    font-variant: small-caps;
+}
+
+a{
+    text-decoration: none;
+    font-variant: normal;
+}
+
+.Destaque{
+    color: #180a68;
+    font-weight: bold;
+}
